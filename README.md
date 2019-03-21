@@ -1,2 +1,2 @@
 # laralima.github.io
-Lara Lima Portifolio
+Lara Lima Portfolio
